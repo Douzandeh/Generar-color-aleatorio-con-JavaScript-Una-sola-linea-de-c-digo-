@@ -1,0 +1,16 @@
+body{
+    background-color: #eee;
+    text-align: center;
+}
+#color{
+    width: 300px;
+    height: 200px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    text-align: center;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    border: 10px solid #fff;
+    border-radius: 5px;
+}
